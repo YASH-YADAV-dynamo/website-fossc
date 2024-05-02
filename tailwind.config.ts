@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         fosscGreen: "#0DFF1C", // Your original custom color
         myColor: "#171717", // New custom color
+        rose: "#e11d48",
+        orange: "#ea580c",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

@@ -1,5 +1,6 @@
 "use client"
 import { useEffect, useState } from 'react';
+
 export default function page () {
     const [countdown, setCountdown] = useState({
         days: 0,
